@@ -1,0 +1,21 @@
+{
+    "name": "grape-juice",
+    "displayName": "Grape Juice",
+    "description": "A redish but cool dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grape Juice",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grape Juice-color-theme.json"
+            }
+        ]
+    }
+}
